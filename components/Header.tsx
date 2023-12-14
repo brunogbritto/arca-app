@@ -9,7 +9,7 @@ function Header() {
     <header className="flex items-center justify-between h-[60px]">
       <Link href="/" className=" flex items-center w-fit space-x-2">
         <div>
-          <Image src="/lib/logo3.jpg" alt="logo" height={100} width={100} />
+          <Image src="/logo3.jpg" alt="logo" height={75} width={75} />
         </div>
         <h1 className="font-bold text-2xl">Arca</h1>
       </Link>
